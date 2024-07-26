@@ -6,7 +6,7 @@ A simple application built with Node.js and Typescript. It serves as an example 
 
 ```bash
 # 1.- Clone the repo
-git clone https://github.com/korikxd/portfolio.git
+git clone https://github.com/korikxd/tasks-app.git
 
 # 2.- Install required dependencies
 npm install
